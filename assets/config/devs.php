@@ -16,5 +16,10 @@ return array (
     'name' => 'Aleh Kot',
     'desc' => 'Expert in PHP stack',
     'twitter' => 'k0teg'
+  ),
+  array(
+    'name' => 'Sergey Tarasevich',
+    'desc' => 'PHP developer',
+    'twitter' => 'D0Gmatist'
   )
 );
