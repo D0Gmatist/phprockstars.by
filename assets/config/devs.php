@@ -3,6 +3,11 @@
 return array (
 
   array (
+    'name' => 'Sergey Tarasevich',
+    'desc' => 'PHP developer',
+    'twitter' => 'D0Gmatist',
+  ),
+  array (
     'name' => 'Dmitrii Varvashenya',
     'desc' => 'Drupal modules contributor',
     'twitter' => 'varvashenia',
